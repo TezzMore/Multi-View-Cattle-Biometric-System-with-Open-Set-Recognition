@@ -144,11 +144,3 @@ This work explores the application of deep metric learning to agricultural biome
 - No exaggerated claims  
 
 ---
-
-If you'd like, I can also:
-
-- Add a **Results section with accuracy placeholders**
-- Add a **Project structure tree**
-- Add a **research-paper style abstract**
-- Make it look like a top-tier CV project**
-- Or tailor it specifically for job applications / LinkedIn**
